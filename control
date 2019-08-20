@@ -1,0 +1,9 @@
+Package: com.artikus.stopchillin
+Name: StopChillin
+Depends: mobilesubstrate, net.limneos.libbulletin
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Tweak to show (customizable) "you've been using your phone for way too much time" notification every <time amount>
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Tweaks
